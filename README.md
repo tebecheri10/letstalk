@@ -9,6 +9,7 @@ You can log in with your github account.
   **Nextui** - UI components
  **Next auth** - Auth 
  **Prisma** - ORM 
+ **SQlite** - Database
  **Tailwind.css** - Styling
  **Zod** - Form validations 
 ## How to use this repository?
